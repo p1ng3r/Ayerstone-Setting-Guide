@@ -1,23 +1,41 @@
-site_name: Project Ayerstone
+site_name: Ayerstone Setting Guide
 site_description: Player-facing Arkflight and Ayerstone campaign guide
-site_url: https://p1ng3r.github.io/Projecet-Ayerstone/
-repo_url: https://github.com/p1ng3r/Projecet-Ayerstone
-repo_name: p1ng3r/Projecet-Ayerstone
+site_url: https://p1ng3r.github.io/Ayerstone-Setting-Guide/
+repo_url: https://github.com/p1ng3r/Ayerstone-Setting-Guide
+repo_name: p1ng3r/Ayerstone-Setting-Guide
+
+extra_css:
+  - stylesheets/ayerstone.css
 
 theme:
   name: material
+  language: en
+  logo: assets/site/ayerstone-mark.svg
+  favicon: assets/site/ayerstone-mark.svg
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.code.copy
   palette:
-    scheme: slate
-    primary: indigo
-    accent: amber
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  icon:
+    repo: fontawesome/brands/github
 
 plugins:
   - search
@@ -31,6 +49,14 @@ markdown_extensions:
       permalink: true
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/p1ng3r/Ayerstone-Setting-Guide
 
 nav:
   - Home: index.md
