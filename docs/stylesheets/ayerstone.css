@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=IM+Fell+English:ital@0;1&family=Inter:wght@400;500;600;700&display=swap');
+
 :root {
   --md-primary-fg-color: #17142b;
   --md-primary-fg-color--light: #302a55;
@@ -5,72 +7,162 @@
   --md-accent-fg-color: #d7a94b;
 }
 
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
 .md-header,
 .md-tabs {
-  background: linear-gradient(90deg, #0d0b18 0%, #17142b 45%, #2a1f3d 100%);
+  background: linear-gradient(90deg, #080712 0%, #17142b 45%, #2a1f3d 100%);
+  border-bottom: 1px solid rgba(215, 169, 75, 0.28);
+}
+
+.md-header__title,
+.md-tabs__link {
+  font-family: 'Cinzel', Georgia, serif;
+  letter-spacing: 0.04em;
 }
 
 .md-main {
   background:
-    radial-gradient(circle at top left, rgba(114, 73, 168, 0.12), transparent 30rem),
-    radial-gradient(circle at top right, rgba(215, 169, 75, 0.10), transparent 28rem),
-    #0b0f18;
+    radial-gradient(circle at top left, rgba(114, 73, 168, 0.15), transparent 32rem),
+    radial-gradient(circle at top right, rgba(215, 169, 75, 0.12), transparent 30rem),
+    radial-gradient(circle at bottom center, rgba(65, 96, 148, 0.10), transparent 38rem),
+    #090d16;
 }
 
 .md-content {
   color: #e8e2d2;
 }
 
+.md-typeset {
+  font-size: 0.82rem;
+  line-height: 1.7;
+}
+
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {
   color: #f0d18a;
-  font-family: Georgia, 'Times New Roman', serif;
-  letter-spacing: 0.01em;
+  font-family: 'Cinzel', Georgia, serif;
+  letter-spacing: 0.025em;
+  text-shadow: 0 0 1.2rem rgba(215, 169, 75, 0.14);
+}
+
+.md-typeset h1 {
+  font-size: 2.35rem;
+}
+
+.md-typeset h2 {
+  border-bottom: 1px solid rgba(215, 169, 75, 0.22);
+  padding-bottom: 0.25rem;
 }
 
 .md-typeset a {
-  color: #8fc7ff;
+  color: #9fd0ff;
 }
 
 .md-typeset blockquote {
-  border-left: 0.2rem solid #d7a94b;
+  border-left: 0.22rem solid #d7a94b;
   color: #f3e3bc;
   background: rgba(215, 169, 75, 0.08);
-  padding: 0.5rem 1rem;
+  padding: 0.6rem 1rem;
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 1.05rem;
 }
 
 .md-typeset .hero {
-  padding: 3rem 2rem;
+  position: relative;
+  overflow: hidden;
+  padding: 3.4rem 2.2rem;
   margin: 0 0 2rem 0;
-  border: 1px solid rgba(215, 169, 75, 0.35);
-  border-radius: 1rem;
+  border: 1px solid rgba(215, 169, 75, 0.42);
+  border-radius: 1.1rem;
   background:
-    linear-gradient(135deg, rgba(9, 10, 20, 0.95), rgba(34, 22, 56, 0.85)),
-    radial-gradient(circle at top right, rgba(215, 169, 75, 0.20), transparent 20rem);
-  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.35);
+    linear-gradient(135deg, rgba(8, 7, 18, 0.95), rgba(34, 22, 56, 0.88)),
+    radial-gradient(circle at top right, rgba(215, 169, 75, 0.24), transparent 22rem),
+    radial-gradient(circle at bottom left, rgba(74, 108, 178, 0.18), transparent 22rem);
+  box-shadow: 0 1.2rem 3.2rem rgba(0, 0, 0, 0.42), inset 0 0 5rem rgba(215, 169, 75, 0.04);
+}
+
+.md-typeset .hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(circle, rgba(255,255,255,0.38) 0 1px, transparent 1.2px),
+    radial-gradient(circle, rgba(215,169,75,0.30) 0 1px, transparent 1.3px);
+  background-size: 4rem 4rem, 7rem 7rem;
+  background-position: 0 0, 2rem 1rem;
+  opacity: 0.16;
+  pointer-events: none;
+}
+
+.md-typeset .hero > * {
+  position: relative;
+  z-index: 1;
 }
 
 .md-typeset .hero h1 {
   margin-top: 0;
-  font-size: 2.7rem;
+  margin-bottom: 0.1rem;
+  font-size: 3.2rem;
+  color: #ffe3a3;
+}
+
+.md-typeset .hero h2 {
+  border: 0;
+  margin-top: 0;
+  color: #bda1ff;
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 1.45rem;
+  font-weight: 400;
 }
 
 .md-typeset .hero p {
-  font-size: 1.05rem;
-  max-width: 48rem;
+  font-size: 1.08rem;
+  max-width: 50rem;
+}
+
+.md-typeset .md-button {
+  border: 1px solid rgba(215, 169, 75, 0.65);
+  border-radius: 999px;
+  color: #ffe3a3;
+  background: linear-gradient(180deg, rgba(60, 43, 89, 0.92), rgba(21, 16, 38, 0.96));
+  box-shadow: 0 0.35rem 1rem rgba(0,0,0,0.28), inset 0 0 0.8rem rgba(215,169,75,0.10);
+  font-family: 'Cinzel', Georgia, serif;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+}
+
+.md-typeset .md-button:hover {
+  transform: translateY(-2px);
+  border-color: rgba(255, 227, 163, 0.95);
+  box-shadow: 0 0.55rem 1.4rem rgba(0,0,0,0.36), 0 0 1.4rem rgba(215,169,75,0.18);
+}
+
+.md-typeset .md-button--primary {
+  color: #17101f;
+  background: linear-gradient(180deg, #ffe3a3, #d7a94b);
+  border-color: #ffe3a3;
 }
 
 .md-typeset .grid.cards > ul > li {
-  background: rgba(22, 20, 43, 0.78);
-  border: 1px solid rgba(215, 169, 75, 0.22);
-  border-radius: 0.85rem;
-  box-shadow: 0 0.4rem 1.2rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, rgba(27, 24, 49, 0.88), rgba(14, 14, 28, 0.92));
+  border: 1px solid rgba(215, 169, 75, 0.28);
+  border-radius: 0.95rem;
+  box-shadow: 0 0.55rem 1.4rem rgba(0, 0, 0, 0.30), inset 0 0 2rem rgba(215, 169, 75, 0.025);
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: rgba(215, 169, 75, 0.58);
+  box-shadow: 0 0.8rem 1.8rem rgba(0, 0, 0, 0.36), 0 0 1.6rem rgba(126, 92, 194, 0.14);
 }
 
 .md-typeset .admonition,
 .md-typeset details {
-  background-color: rgba(22, 20, 43, 0.72);
+  background-color: rgba(22, 20, 43, 0.76);
   border-color: rgba(215, 169, 75, 0.35);
 }
 
@@ -82,8 +174,10 @@
 .md-nav__title,
 .md-nav__item .md-nav__link--active {
   color: #f0d18a;
+  font-family: 'Cinzel', Georgia, serif;
 }
 
 .md-footer {
   background: #0d0b18;
+  border-top: 1px solid rgba(215, 169, 75, 0.22);
 }
