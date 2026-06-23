@@ -63,6 +63,10 @@ nav:
       - Tidereach: houses/tidereach.md
   - Guilds:
       - Overview: guilds/index.md
+      - Fourfold Conclave: guilds/fourfold-conclave.md
+      - Irystone Watch: guilds/irystone-watch.md
+      - Violet Guard: guilds/violet-guard.md
+      - Guild of Arkengineers: guilds/guild-of-arkengineers.md
   - Religions:
       - Overview: religions/index.md
       - Aeloria: religions/aeloria.md
