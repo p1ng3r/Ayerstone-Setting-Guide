@@ -38,6 +38,11 @@ nav:
       - Overview: player-guide/index.md
       - What Is Arkflight?: player-guide/what-is-arkflight.md
       - Ayerstone Overview: player-guide/ayerstone-overview.md
+      - Ayerstone Atlas: player-guide/ayerstone-atlas.md
+      - Chainbound Isles: player-guide/chainbound-isles.md
+  - Chainbound Isles:
+      - Vael'Tharis: chainbound-isles/vaeltharis.md
+      - Skullwatch Depot: chainbound-isles/skullwatch-depot.md
   - Districts:
       - Overview: districts/index.md
       - Grand Docks: districts/grand-docks.md
