@@ -1,4 +1,4 @@
-.md-typeset .hero--ayerstone{min-height:24rem;display:flex;flex-direction:column;justify-content:flex-end;background:linear-gradient(90deg,rgba(5,7,18,.88),rgba(9,11,26,.48),rgba(5,7,18,.78)),linear-gradient(180deg,rgba(5,7,18,.08),rgba(5,7,18,.86)),url('../assets/art/ayerstone-header.svg') center/cover no-repeat;border-color:rgba(215,169,75,.62)}
+.md-typeset .hero--ayerstone{min-height:24rem;display:flex;flex-direction:column;justify-content:flex-end;background:linear-gradient(90deg,rgba(5,7,18,.88),rgba(9,11,26,.48),rgba(5,7,18,.78)),linear-gradient(180deg,rgba(5,7,18,.08),rgba(5,7,18,.86)),url('../assets/art/ayerstone-header.svg?v=raster-20260623b') center/cover no-repeat;border-color:rgba(215,169,75,.62)}
 .md-typeset .hero--ayerstone:before{opacity:.08}
 .md-typeset .hero--ayerstone h1,.md-typeset .hero--ayerstone h2,.md-typeset .hero--ayerstone p{max-width:44rem;text-shadow:0 .18rem .6rem rgba(0,0,0,.95),0 0 1.4rem rgba(0,0,0,.75)}
 .md-typeset .hero--ayerstone h1{font-size:clamp(2.6rem,6vw,5rem);line-height:.95}
