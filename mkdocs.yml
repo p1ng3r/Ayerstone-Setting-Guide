@@ -41,9 +41,14 @@ nav:
   - Districts:
       - Overview: districts/index.md
       - Grand Docks: districts/grand-docks.md
-      - Merchant's Reach: districts/merchants-reach.md
+      - Merchant Reach: districts/merchants-reach.md
       - Driftwall: districts/driftwall.md
       - Crownward: districts/crownward.md
+      - Noble Row: districts/noble-row.md
+      - Portal Lake: districts/portal-lake.md
+      - Waterfall Ward: districts/waterfall-ward.md
+      - Brassworks: districts/brassworks.md
+      - Deepstone Gate: districts/deepstone-gate.md
   - Great Houses:
       - Overview: houses/index.md
       - Starweaver: houses/starweaver.md
@@ -56,7 +61,7 @@ nav:
       - Valecross: houses/valecross.md
       - Emberhall: houses/emberhall.md
       - Tidereach: houses/tidereach.md
-  - Guilds & Orders:
+  - Guilds:
       - Overview: guilds/index.md
   - Religions:
       - Overview: religions/index.md
