@@ -51,7 +51,7 @@ Ayerstone is a massive floating world-shard city suspended in the dark void. Ark
 
 <script>
 (function () {
-  var version = '20260623d';
+  var version = '20260623e';
   function loadArt(name) {
     return fetch('assets/art/inline/' + name + '.b64.txt?v=' + version, { cache: 'no-store' })
       .then(function (response) {
