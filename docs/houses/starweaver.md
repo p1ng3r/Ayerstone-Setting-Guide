@@ -20,7 +20,7 @@
 </section>
 
 <section class="house-feature house-feature--starweaver">
-  <div class="house-feature__portrait"><img src="../../assets/characters/lady-starweaver.jpg" alt="Lady Celestia Starweaver portrait" loading="lazy" onerror="this.closest('.house-feature').remove()"></div>
+  <div class="house-feature__portrait"><img src="../../assets/characters/lady-starweaver.webp" alt="Lady Celestia Starweaver portrait" loading="lazy" onerror="this.closest('.house-feature').remove()"></div>
   <div class="house-feature__body">
     <p class="house-feature__eyebrow">Featured Figure</p>
     <h2>Lady Celestia Starweaver</h2>
