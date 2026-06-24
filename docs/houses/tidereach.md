@@ -9,6 +9,16 @@
   </div>
 </div>
 
+<div class="house-glance" markdown>
+  <div class="house-glance__title">At a Glance</div>
+  <div class="house-glance__grid">
+    <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Water rights, canals, reservoirs, floodgates, cisterns, and public fountains.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Seat</span><span class="house-glance__value">Portal Lake, Waterfall Ward, canal offices, reservoirs, and southern waterworks.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Blue-white fabrics, silver, pearl, waterglass, shellwork, and fountain-bright stone.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">First Float rites, remembrance lanterns, flowing architecture, and water that obeys law.</span></div>
+  </div>
+</div>
+
 ## Overview
 
 House Tidereach manages water rights, canals, reservoirs, floodgates, public cisterns, water clocks, riverworks, and the infrastructure fed by Portal Lake and the Waterplane Portal.
