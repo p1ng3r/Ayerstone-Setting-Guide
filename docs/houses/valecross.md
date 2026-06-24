@@ -1,4 +1,4 @@
-<div class="house-page-hero house-page-valecross" markdown>
+<section class="house-page-hero house-page-valecross">
   <div class="house-page-hero__art"><img src="../../assets/houses/valecross.jpg" alt="House Valecross banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
@@ -7,9 +7,9 @@
     <p class="house-page-hero__motto">“Breath is wealth.”</p>
     <div class="house-page-hero__tags"><span>Food</span><span>Gardens</span><span>Lifeveil</span></div>
   </div>
-</div>
+</section>
 
-<div class="house-glance" markdown>
+<section class="house-glance">
   <div class="house-glance__title">At a Glance</div>
   <div class="house-glance__grid">
     <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Agriculture, food security, Lifeveil ecology, gardens, and fey diplomacy.</span></div>
@@ -17,7 +17,7 @@
     <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Cream stone, green, bronze, leaf-gold, seed jewelry, and living flowers.</span></div>
     <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Living walls, orchard courts, planting rites, small fey neighbors, and the breath of the city.</span></div>
   </div>
-</div>
+</section>
 
 ## Overview
 
