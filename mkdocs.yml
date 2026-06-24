@@ -8,6 +8,7 @@ extra_css:
   - stylesheets/ayerstone.css
   - stylesheets/house-banners.css
   - stylesheets/house-glance.css
+  - stylesheets/house-power.css
 
 theme:
   name: material
