@@ -1,4 +1,4 @@
-<div class="house-page-hero house-page-ironmantle" markdown>
+<section class="house-page-hero house-page-ironmantle">
   <div class="house-page-hero__art"><img src="../../assets/houses/ironmantle.jpg" alt="House Ironmantle banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
@@ -7,9 +7,9 @@
     <p class="house-page-hero__motto">“What lies below belongs to those who dare.”</p>
     <div class="house-page-hero__tags"><span>Stone</span><span>Mining</span><span>Aetherite</span></div>
   </div>
-</div>
+</section>
 
-<div class="house-glance" markdown>
+<section class="house-glance">
   <div class="house-glance__title">At a Glance</div>
   <div class="house-glance__grid">
     <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Mining, stonework, aetherite claims, deep shafts, and structural foundations.</span></div>
@@ -17,7 +17,7 @@
     <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Black granite, iron, brass, red-brown stone, and ore-dark gems.</span></div>
     <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Subterranean estates, First Strike rites, practical wealth, and stone that remembers.</span></div>
   </div>
-</div>
+</section>
 
 ## Overview
 
