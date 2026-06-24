@@ -1,6 +1,15 @@
-# House Valecross
+<div class="house-page-hero house-page-valecross" markdown>
+  <div class="house-page-hero__art"><img src="../assets/houses/valecross.jpg" alt="House Valecross banner" loading="lazy"></div>
+  <div class="house-page-hero__content">
+    <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
+    <h1>House Valecross</h1>
+    <p class="house-page-hero__title">Keepers of Green Breath</p>
+    <p class="house-page-hero__motto">“Breath is wealth.”</p>
+    <div class="house-page-hero__tags"><span>Food</span><span>Gardens</span><span>Lifeveil</span></div>
+  </div>
+</div>
 
-## Keepers of Green Breath
+## Overview
 
 House Valecross is the house of agriculture, Lifeveil ecology, food security, gardens, fey diplomacy, living wards, and the green systems that help Ayerstone breathe.
 
