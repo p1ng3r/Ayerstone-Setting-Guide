@@ -42,3 +42,14 @@ Royal children are taught duty through ceremony, history, etiquette, and public 
 ## Common Saying
 
 > The crown is not worn. It is carried.
+
+## Court Whispers
+
+!!! info "Public Rumor"
+    The palace records are so old that some Aurelian decrees are treated almost like holy relics.
+
+!!! warning "Risky Rumor"
+    Some courtiers believe the crown relies on House Emberhall more than royal pride would ever admit.
+
+!!! question "Whispered Claim"
+    The missing half of an old royal bargain may still be somewhere in Ayerstone.
