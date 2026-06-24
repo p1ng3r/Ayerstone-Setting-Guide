@@ -1,5 +1,5 @@
 <div class="house-page-hero house-page-marruk" markdown>
-  <div class="house-page-hero__art"><img src="../assets/houses/marruk.jpg" alt="House Marruk banner" loading="lazy"></div>
+  <div class="house-page-hero__art"><img src="../../assets/houses/marruk.jpg" alt="House Marruk banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
     <h1>House Marruk</h1>
@@ -11,7 +11,7 @@
 
 ## Overview
 
-House Marruk is the house of security, contracts, mercenary companies, guard hounds, escort duty, and professional vigilance.
+House Marruk is the house of security, contracts, escort duty, and professional vigilance.
 
 ## Public Identity
 
