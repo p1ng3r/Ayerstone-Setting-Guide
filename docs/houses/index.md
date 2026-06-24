@@ -1,6 +1,31 @@
-# The Great Houses of Ayerstone
+<section class="great-houses-hero">
+  <img class="great-houses-hero__image" src="../assets/houses/Chained%20Table.webp" alt="The Table of Chains council chamber" loading="eager">
+  <div class="great-houses-hero__shade"></div>
+  <div class="great-houses-hero__content">
+    <p class="great-houses-hero__eyebrow">The Great Houses of Ayerstone</p>
+    <h1>The Table of Chains</h1>
+    <p class="great-houses-hero__subtitle">Nine houses. One city. A thousand hidden bargains.</p>
+    <div class="great-houses-hero__tags"><span>Crown</span><span>Trade</span><span>Debt</span><span>Steel</span><span>Water</span></div>
+  </div>
+</section>
 
 The Great Houses are the noble, commercial, military, industrial, agricultural, financial, and infrastructural powers that shape public life in Ayerstone.
+
+<section class="house-dashboard">
+  <div class="house-dashboard__header">
+    <p class="house-dashboard__eyebrow">Power at a Glance</p>
+    <h2>Who Holds What</h2>
+    <p>The Table of Chains is not a throne room. It is a pressure chamber where trade routes, royal blood, contracts, ships, water, food, guards, and old grudges all pull against one another.</p>
+  </div>
+  <div class="house-dashboard__grid">
+    <article class="house-dashboard__item house-dashboard__item--wealth"><span>Richest House</span><strong>Starweaver</strong><p>Route monopolies, shipping influence, and horizon trade make Starweaver wealth difficult to measure and harder to challenge.</p></article>
+    <article class="house-dashboard__item house-dashboard__item--military"><span>Strongest Military</span><strong>Marruk</strong><p>Security contracts, trained guards, disciplined escorts, and royal protection keep Marruk close to every seat of power.</p></article>
+    <article class="house-dashboard__item house-dashboard__item--magic"><span>Most Magical</span><strong>Valecross</strong><p>Lifeveil ecology, old green rites, food systems, and primal traditions give Valecross quiet power over breath and survival.</p></article>
+    <article class="house-dashboard__item house-dashboard__item--hated"><span>Most Hated</span><strong>Veyr</strong><p>Everyone needs loans, insurance, ledgers, and contracts. Almost no one loves the hand that collects.</p></article>
+    <article class="house-dashboard__item house-dashboard__item--criminal"><span>Most Criminal Ties</span><strong>Blackwake</strong><p>Privateering, escort fleets, dangerous waters, and dockside favors blur the line between protection and threat.</p></article>
+    <article class="house-dashboard__item house-dashboard__item--war"><span>Closest to War</span><strong>Blackwake vs Stormglass</strong><p>Ships need builders and escorts. Pride, sabotage, and contracts keep both houses close to open conflict.</p></article>
+  </div>
+</section>
 
 <div class="house-registry" markdown>
 
