@@ -1,0 +1,17 @@
+.md-typeset .house-glance{--house-color:#d7a94b;--house-glow:rgba(215,169,75,.28);position:relative;margin:-.45rem 0 1.8rem;padding:1rem;border:1px solid color-mix(in srgb,var(--house-color) 42%,transparent);border-radius:1rem;background:radial-gradient(circle at top right,color-mix(in srgb,var(--house-color) 15%,transparent),transparent 14rem),linear-gradient(180deg,rgba(18,18,36,.80),rgba(8,9,20,.92));box-shadow:0 .8rem 1.8rem rgba(0,0,0,.22),inset 0 0 1.8rem rgba(255,227,163,.035)}
+.md-typeset .house-glance__title{margin:0 0 .85rem;color:#ffe3a3;font-family:'Cinzel',Georgia,serif;font-size:1.1rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;text-shadow:0 .1rem .16rem #000,0 0 .65rem var(--house-glow)}
+.md-typeset .house-glance__grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.65rem}
+.md-typeset .house-glance__item{padding:.65rem .75rem;border:1px solid rgba(255,227,163,.12);border-radius:.75rem;background:rgba(5,7,18,.38);box-shadow:inset 0 0 .9rem color-mix(in srgb,var(--house-color) 8%,transparent)}
+.md-typeset .house-glance__label{display:block;margin-bottom:.16rem;color:color-mix(in srgb,var(--house-color) 76%,#fff1b8 24%);font-family:'Cinzel',Georgia,serif;font-size:.66rem;letter-spacing:.12em;text-transform:uppercase}
+.md-typeset .house-glance__value{display:block;color:#e8e2d2;font-size:.78rem;line-height:1.45}
+.md-typeset .house-page-starweaver+.house-glance{--house-color:#65b6ff;--house-glow:rgba(101,182,255,.30)}
+.md-typeset .house-page-aurelian+.house-glance{--house-color:#f1c15a;--house-glow:rgba(241,193,90,.33)}
+.md-typeset .house-page-ironmantle+.house-glance{--house-color:#9aa4ad;--house-glow:rgba(154,164,173,.26)}
+.md-typeset .house-page-veyr+.house-glance{--house-color:#b7a0ff;--house-glow:rgba(183,160,255,.28)}
+.md-typeset .house-page-blackwake+.house-glance{--house-color:#6f86a8;--house-glow:rgba(111,134,168,.31)}
+.md-typeset .house-page-stormglass+.house-glance{--house-color:#78e4ff;--house-glow:rgba(120,228,255,.28)}
+.md-typeset .house-page-marruk+.house-glance{--house-color:#cf654f;--house-glow:rgba(207,101,79,.30)}
+.md-typeset .house-page-valecross+.house-glance{--house-color:#74c878;--house-glow:rgba(116,200,120,.28)}
+.md-typeset .house-page-emberhall+.house-glance{--house-color:#ff8a3d;--house-glow:rgba(255,138,61,.31)}
+.md-typeset .house-page-tidereach+.house-glance{--house-color:#57d7d4;--house-glow:rgba(87,215,212,.29)}
+@media screen and (max-width:44.9375em){.md-typeset .house-glance__grid{grid-template-columns:1fr}.md-typeset .house-glance{padding:.8rem}}
