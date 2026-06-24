@@ -42,3 +42,14 @@ Ironmantle children receive toy hammers, learn ore by smell, and keep the stone 
 ## Common Saying
 
 > The stone remembers.
+
+## Court Whispers
+
+!!! info "Public Rumor"
+    Ironmantle surveyors can tell where a tunnel runs by listening to the floor under a busy street.
+
+!!! warning "Risky Rumor"
+    Some old mine maps show chambers that current guild records refuse to name.
+
+!!! question "Whispered Claim"
+    The deepest Ironmantle vaults may hold stone samples older than Ayerstone's monarchy.
