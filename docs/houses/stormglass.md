@@ -42,3 +42,14 @@ Children receive a First Hammer and are expected to make something useful before
 ## Common Saying
 
 > The void does not forgive sloppy work.
+
+## Court Whispers
+
+!!! info "Public Rumor"
+    Stormglass heirs are expected to repair a broken device before they are trusted with a formal title.
+
+!!! warning "Risky Rumor"
+    A few experimental hull designs are tested far from public docks for very good reasons.
+
+!!! question "Whispered Claim"
+    Some Stormglass prototypes may have returned from test flights with more rooms than they launched with.
