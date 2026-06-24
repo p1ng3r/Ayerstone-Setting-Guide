@@ -100,4 +100,19 @@ Every banner below opens that house's page. Each house carries a public face, a 
   </a>
 </div>
 
+<section class="power-web">
+  <h2>The Web of Power</h2>
+  <p class="power-web__intro">The Great Houses rarely move alone. Every public alliance hides a pressure point, every old grudge needs a polite mask, and every contract pulls on more than one banner.</p>
+  <div class="power-web__grid">
+    <article class="power-link power-link--alliance"><span class="power-link__type">Alliance</span><h3>Aurelian ⇄ Emberhall</h3><p>Royal legitimacy leans on industrial support. Emberhall gains prestige when the crown needs chains, fittings, foundries, or public works done quickly.</p></article>
+    <article class="power-link power-link--rivalry"><span class="power-link__type">Rivalry</span><h3>Aurelian ⚔ Marruk</h3><p>The crown depends on Marruk security while old hatred keeps both sides watching every handshake, escort detail, and locked door.</p></article>
+    <article class="power-link power-link--trade"><span class="power-link__type">Mutual Benefit</span><h3>Starweaver ⇄ Stormglass</h3><p>Routes need ships, and ships need routes. Starweaver opens horizons while Stormglass builds the vessels brave enough to reach them.</p></article>
+    <article class="power-link power-link--tension"><span class="power-link__type">Dock Pressure</span><h3>Starweaver ⇄ Blackwake</h3><p>Trade fleets want speed and freedom. Escort fleets want discipline and control. Both houses profit when the void is dangerous.</p></article>
+    <article class="power-link power-link--debt"><span class="power-link__type">Quiet Leverage</span><h3>Veyr → Everyone</h3><p>Debt, insurance, inheritance, and contract law let Veyr touch every house without raising a banner or drawing a blade.</p></article>
+    <article class="power-link power-link--civic"><span class="power-link__type">Civic Lifeline</span><h3>Tidereach ⇄ Valecross</h3><p>Water and food are the city's breath. When canals, gardens, markets, and Lifeveil systems overlap, these houses must cooperate.</p></article>
+    <article class="power-link power-link--industry"><span class="power-link__type">Supply Chain</span><h3>Ironmantle → Emberhall / Stormglass</h3><p>Ore, stone, levstone, and aetherite claims feed the foundries and shipyards. Without Ironmantle, many grand designs stay drawings.</p></article>
+    <article class="power-link power-link--contract"><span class="power-link__type">Contract Web</span><h3>Marruk ⇄ Veyr</h3><p>Guards protect vaults and couriers. Bankers finance patrols and bonds. Together, they make safety look like paperwork.</p></article>
+  </div>
+</section>
+
 </div>
