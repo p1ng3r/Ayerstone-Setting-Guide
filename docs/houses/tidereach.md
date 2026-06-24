@@ -1,4 +1,4 @@
-<div class="house-page-hero house-page-tidereach" markdown>
+<section class="house-page-hero house-page-tidereach">
   <div class="house-page-hero__art"><img src="../../assets/houses/tidereach.jpg" alt="House Tidereach banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
@@ -7,17 +7,17 @@
     <p class="house-page-hero__motto">“All thirst bows.”</p>
     <div class="house-page-hero__tags"><span>Water</span><span>Canals</span><span>Falls</span></div>
   </div>
-</div>
+</section>
 
-<div class="house-glance" markdown>
+<section class="house-glance">
   <div class="house-glance__title">At a Glance</div>
   <div class="house-glance__grid">
     <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Water rights, canals, reservoirs, floodgates, cisterns, and public fountains.</span></div>
     <div class="house-glance__item"><span class="house-glance__label">Seat</span><span class="house-glance__value">Portal Lake, Waterfall Ward, canal offices, reservoirs, and southern waterworks.</span></div>
     <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Blue-white fabrics, silver, pearl, waterglass, shellwork, and fountain-bright stone.</span></div>
-    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">First Float rites, remembrance lanterns, flowing architecture, and water that obeys law.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">First Float rites, remembrance lanterns, flowing architecture, and public waterworks.</span></div>
   </div>
-</div>
+</section>
 
 ## Overview
 
