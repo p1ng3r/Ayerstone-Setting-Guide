@@ -42,3 +42,14 @@ Children learn planting, weather signs, seasonal rites, and respect for small fe
 ## Common Saying
 
 > A city breathes because something grows.
+
+## Court Whispers
+
+!!! info "Public Rumor"
+    Valecross cooks can tell which garden supplied a vegetable by the scent of its cut stem.
+
+!!! warning "Risky Rumor"
+    Some living walls in Valecross estates are said to remember private conversations.
+
+!!! question "Whispered Claim"
+    Certain garden doors may open only for guests who have been invited by the roots themselves.
