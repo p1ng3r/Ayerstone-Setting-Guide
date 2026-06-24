@@ -1,5 +1,5 @@
 <div class="house-page-hero house-page-stormglass" markdown>
-  <div class="house-page-hero__art"><img src="../assets/houses/stormglass.jpg" alt="House Stormglass banner" loading="lazy"></div>
+  <div class="house-page-hero__art"><img src="../../assets/houses/stormglass.jpg" alt="House Stormglass banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
     <h1>House Stormglass</h1>
