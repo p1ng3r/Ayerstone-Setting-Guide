@@ -9,6 +9,16 @@
   </div>
 </div>
 
+<div class="house-glance" markdown>
+  <div class="house-glance__title">At a Glance</div>
+  <div class="house-glance__grid">
+    <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Agriculture, food security, Lifeveil ecology, gardens, and fey diplomacy.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Seat</span><span class="house-glance__value">Noble Row, Lifeveil gardens, market food halls, and greener Chainbound Isles.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Cream stone, green, bronze, leaf-gold, seed jewelry, and living flowers.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Living walls, orchard courts, planting rites, small fey neighbors, and the breath of the city.</span></div>
+  </div>
+</div>
+
 ## Overview
 
 House Valecross is the house of agriculture, Lifeveil ecology, food security, gardens, fey diplomacy, living wards, and the green systems that help Ayerstone breathe.
