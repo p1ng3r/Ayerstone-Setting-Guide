@@ -3,7 +3,7 @@
 # Ayerstone
 ## Crown of the Falls
 
-A floating city between worlds. A harbor of Arkflight ships. A kingdom built on stone, water, chains, magic, and dangerous ambition.
+A floating city between worlds. A harbor of Arkflight ships. A kingdom built on stone, water, chains, magic, and ambition.
 
 <div class="ayerstone-hero-actions">
   <a class="ayerstone-hero-button" href="districts/"><span>Explore the City</span></a>
@@ -22,7 +22,7 @@ A floating city between worlds. A harbor of Arkflight ships. A kingdom built on 
 
 Ayerstone is a massive floating world-shard city suspended in the dark void. Arkflight ships crowd the Grand Docks, water pours endlessly from the Waterplane Portal into Portal Lake, and the Great Houses compete for influence across terraces, markets, temples, foundries, and chained satellite islands.
 
-> Everything passes through Ayerstone Port, legal or illegal.
+> Everything passes through Ayerstone Port.
 
 ## Start Here
 
@@ -33,7 +33,7 @@ Ayerstone is a massive floating world-shard city suspended in the dark void. Ark
     <span>Explore the major districts of Ayerstone: Crownward, Merchant Reach, Driftwall, the Grand Docks, Noble Row, Portal Lake, Brassworks, Deepstone Gate, and Waterfall Ward.</span>
   </a>
   <a class="ayerstone-art-card" href="houses/" aria-label="Open Great Houses">
-    <img src="assets/art/great-houses-card.svg" alt="Great Houses">
+    <img src="assets/art/great-houses-card.svg?v=20260624a" alt="Great Houses">
     <strong>Great Houses</strong>
     <span>Learn the noble houses that shape the city's politics, trade, food, ships, law, water, and industry.</span>
   </a>
@@ -51,7 +51,7 @@ Ayerstone is a massive floating world-shard city suspended in the dark void. Ark
 
 <script>
 (function () {
-  var version = '20260623g';
+  var version = '20260624a';
   function loadArt(name) {
     return fetch('assets/art/inline/' + name + '.b64.txt?v=' + version, { cache: 'no-store' })
       .then(function (response) {
