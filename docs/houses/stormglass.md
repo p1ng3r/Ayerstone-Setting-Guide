@@ -1,6 +1,15 @@
-# House Stormglass
+<div class="house-page-hero house-page-stormglass" markdown>
+  <div class="house-page-hero__art"><img src="../assets/houses/stormglass.jpg" alt="House Stormglass banner" loading="lazy"></div>
+  <div class="house-page-hero__content">
+    <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
+    <h1>House Stormglass</h1>
+    <p class="house-page-hero__title">Builders of the Void</p>
+    <p class="house-page-hero__motto">“Build what the void cannot break.”</p>
+    <div class="house-page-hero__tags"><span>Ships</span><span>Engines</span><span>Design</span></div>
+  </div>
+</div>
 
-## Builders of the Void
+## Overview
 
 House Stormglass designs, builds, tests, and repairs Arkflight ships. It is the house of shipwrights, engineers, sail architects, hull mathematicians, prototype pilots, and dangerous dreamers.
 
