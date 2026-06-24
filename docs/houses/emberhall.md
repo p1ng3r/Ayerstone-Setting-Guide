@@ -9,6 +9,16 @@
   </div>
 </div>
 
+<div class="house-glance" markdown>
+  <div class="house-glance__title">At a Glance</div>
+  <div class="house-glance__grid">
+    <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Foundries, manufacturing, tools, armor, machinery, and industrial infrastructure.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Seat</span><span class="house-glance__value">The Brassworks, forge-estates, industrial contracts, and manufacturing halls.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Dark brick, black iron, brass, furnace orange, leather, and ember-gold.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Continuous furnaces, First Forge rites, callused pride, and useful things made from heat.</span></div>
+  </div>
+</div>
+
 ## Overview
 
 House Emberhall turns raw materials into civilization. It forges anchors, chains, tools, armor, machinery, Arkengine fittings, industrial components, and the infrastructure that keeps Ayerstone working.
