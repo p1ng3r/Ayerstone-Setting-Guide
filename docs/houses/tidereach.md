@@ -42,3 +42,14 @@ Every newborn receives a tiny carved boat for the First Float ceremony. Families
 ## Common Saying
 
 > Patience wears down stone.
+
+## Court Whispers
+
+!!! info "Public Rumor"
+    Tidereach clerks can identify a neighborhood by the sound of water in its pipes.
+
+!!! warning "Risky Rumor"
+    Some canal records show water diverted to estates that officially receive none.
+
+!!! question "Whispered Claim"
+    Old maintenance tunnels beneath Portal Lake may predate several noble districts.
