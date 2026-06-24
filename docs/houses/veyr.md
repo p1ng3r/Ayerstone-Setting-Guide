@@ -1,4 +1,4 @@
-<div class="house-page-hero house-page-veyr" markdown>
+<section class="house-page-hero house-page-veyr">
   <div class="house-page-hero__art"><img src="../../assets/houses/veyr.jpg" alt="House Veyr banner" loading="lazy"></div>
   <div class="house-page-hero__content">
     <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
@@ -7,9 +7,9 @@
     <p class="house-page-hero__motto">“All debts return.”</p>
     <div class="house-page-hero__tags"><span>Banking</span><span>Debt</span><span>Contracts</span></div>
   </div>
-</div>
+</section>
 
-<div class="house-glance" markdown>
+<section class="house-glance">
   <div class="house-glance__title">At a Glance</div>
   <div class="house-glance__grid">
     <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Banking, contracts, insurance, debt, inheritance, and investment.</span></div>
@@ -17,7 +17,7 @@
     <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Ivory, dark green glass, black marble, polished brass, and emerald accents.</span></div>
     <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Quiet leverage, mirrored halls, silent vaults, and contracts read for consequence.</span></div>
   </div>
-</div>
+</section>
 
 ## Overview
 
