@@ -1,15 +1,22 @@
 <section class="great-houses-hero">
   <img class="great-houses-hero__image" src="../assets/houses/Chained%20Table.webp" alt="The Table of Chains council chamber" loading="eager">
   <div class="great-houses-hero__shade"></div>
+  <nav class="great-houses-hero__hotspots" aria-label="Clickable Great House banners in the Table of Chains">
+    <a class="great-houses-hero__hotspot great-houses-hero__hotspot--stormglass" href="stormglass/" aria-label="Open House Stormglass"><span>House Stormglass</span></a>
+    <a class="great-houses-hero__hotspot great-houses-hero__hotspot--valecross" href="valecross/" aria-label="Open House Valecross"><span>House Valecross</span></a>
+    <a class="great-houses-hero__hotspot great-houses-hero__hotspot--aurelian" href="aurelian/" aria-label="Open House Aurelian"><span>House Aurelian</span></a>
+    <a class="great-houses-hero__hotspot great-houses-hero__hotspot--blackwake" href="blackwake/" aria-label="Open House Blackwake"><span>House Blackwake</span></a>
+    <a class="great-houses-hero__hotspot great-houses-hero__hotspot--emberhall" href="emberhall/" aria-label="Open House Emberhall"><span>House Emberhall</span></a>
+    <a class="great-houses-hero__hotspot great-houses-hero__hotspot--marruk" href="marruk/" aria-label="Open House Marruk"><span>House Marruk</span></a>
+    <a class="great-houses-hero__hotspot great-houses-hero__hotspot--starweaver" href="starweaver/" aria-label="Open House Starweaver"><span>House Starweaver</span></a>
+    <a class="great-houses-hero__hotspot great-houses-hero__hotspot--tidereach" href="tidereach/" aria-label="Open House Tidereach"><span>House Tidereach</span></a>
+    <a class="great-houses-hero__hotspot great-houses-hero__hotspot--veyr" href="veyr/" aria-label="Open House Veyr"><span>House Veyr</span></a>
+    <a class="great-houses-hero__hotspot great-houses-hero__hotspot--ironmantle" href="ironmantle/" aria-label="Open House Ironmantle"><span>House Ironmantle</span></a>
+  </nav>
   <div class="great-houses-hero__content">
-    <p class="great-houses-hero__eyebrow">The Great Houses of Ayerstone</p>
+    <p class="great-houses-hero__eyebrow">Click the Banners of the Table</p>
     <h1>The Table of Chains</h1>
-    <p class="great-houses-hero__subtitle">Nine houses. One city. A thousand hidden bargains.</p>
-    <div class="great-houses-hero__actions">
-      <a href="#choose-a-house">Choose a House</a>
-      <a href="#power-at-a-glance">Power Dashboard</a>
-      <a href="#web-of-power">Web of Power</a>
-    </div>
+    <p class="great-houses-hero__subtitle">Choose a banner around the hall to enter its house.</p>
     <div class="great-houses-hero__tags">
       <a href="aurelian/">Crown</a>
       <a href="starweaver/">Trade</a>
