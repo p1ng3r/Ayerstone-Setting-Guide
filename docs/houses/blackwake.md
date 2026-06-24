@@ -42,3 +42,14 @@ Every child serves a ceremonial First Watch. Family feasts leave one chair empty
 ## Common Saying
 
 > Storms reveal captains.
+
+## Court Whispers
+
+!!! info "Public Rumor"
+    Blackwake captains leave one lantern unlit until every contracted ship has reached port.
+
+!!! warning "Risky Rumor"
+    Some escort contracts include quiet clauses that never appear in public ledgers.
+
+!!! question "Whispered Claim"
+    The house keeps private charts marking wrecks whose cargo was never reported recovered.
