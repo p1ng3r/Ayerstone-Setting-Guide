@@ -19,6 +19,47 @@
   </div>
 </section>
 
+## Notable Figures
+
+<section class="house-feature house-feature--aurelian">
+  <div class="house-feature__portrait"><img src="../../npcs/house-aurelian/Lord%20Caedran%20Aurelian.webp" alt="Lord Caedran Aurelian portrait" loading="lazy" onerror="this.closest('.house-feature').remove()"></div>
+  <div class="house-feature__body">
+    <p class="house-feature__eyebrow">House Aurelian Figure</p>
+    <h2>Lord Caedran Aurelian</h2>
+    <p class="house-feature__subtitle">The Marble Hawk • Royal Cousin • Court Duelist</p>
+    <p class="house-feature__quote">“Power is not always held by the hand gripping the sword. Sometimes it belongs to the one who knows when the sword must remain sheathed.”</p>
+    <p class="house-feature__text">Lord Caedran is a polished Aurelian noble whose manners are as precise as his blade. He is known across Crownward as composed, elegant, soft-spoken, and almost impossible to read.</p>
+    <p class="house-feature__text">A veteran royal envoy from the Grelkin war, Caedran survived assassination attempts and returned to court with a reputation for immaculate courtesy and lethal calm.</p>
+    <div class="house-feature__tags"><span>Duelist</span><span>Court Operator</span><span>Royal Blood</span></div>
+  </div>
+</section>
+
+<section class="house-feature house-feature--aurelian">
+  <div class="house-feature__portrait"><img src="../../npcs/house-aurelian/Olstar%20Vin-Har.webp" alt="Olstar Vin-Har portrait" loading="lazy" onerror="this.closest('.house-feature').remove()"></div>
+  <div class="house-feature__body">
+    <p class="house-feature__eyebrow">House Aurelian Figure</p>
+    <h2>Olstar Vin-Har</h2>
+    <p class="house-feature__subtitle">Keeper of the Sealed Vaults • Archmage • Royal Warder</p>
+    <p class="house-feature__quote">“Some oaths are older than memory. That does not make them harmless.”</p>
+    <p class="house-feature__text">Olstar Vin-Har is one of House Aurelian’s most powerful archmages and a trusted guardian of the crown’s oldest sealed records.</p>
+    <p class="house-feature__text">Though he is a mage by training, many describe him as having the soul of a paladin: disciplined, severe, devoted to justice, and unwilling to abandon a duty once he has accepted it.</p>
+    <div class="house-feature__tags"><span>Archmage</span><span>Sealed Records</span><span>Royal Law</span></div>
+  </div>
+</section>
+
+<section class="house-feature house-feature--aurelian">
+  <div class="house-feature__portrait"><img src="../../npcs/house-aurelian/Lady%20Vaelessa%20Aurelian.webp" alt="Lady Vaelessa Aurelian portrait" loading="lazy" onerror="this.closest('.house-feature').remove()"></div>
+  <div class="house-feature__body">
+    <p class="house-feature__eyebrow">House Aurelian Figure</p>
+    <h2>Lady Vaelessa Aurelian</h2>
+    <p class="house-feature__subtitle">The Amethyst Thorn • Royal Archivist • Keeper of Bloodlines</p>
+    <p class="house-feature__quote">“Blood remembers what history edits out.”</p>
+    <p class="house-feature__text">Lady Vaelessa is the royal archivist of House Aurelian and one of the most feared historians in Crownward.</p>
+    <p class="house-feature__text">She maintains public archives, succession records, old decrees, inheritance claims, and the polished version of history House Aurelian permits the world to see.</p>
+    <div class="house-feature__tags"><span>Archivist</span><span>Genealogy</span><span>Succession Law</span></div>
+  </div>
+</section>
+
 ## Overview
 
 House Aurelian is the royal house of Ayerstone. Where other houses measure power in ships, contracts, ore, or engines, Aurelian measures it in continuity.
@@ -34,50 +75,6 @@ Aurelian formal dress uses white fabrics, gold trim, violet accents, embroidered
 ## Ayerstone Presence
 
 House Aurelian rules from Crownward Palace in Crownward, north-center above Noble Row and Portal Lake.
-
-## Notable Figures
-
-### Lord Caedran Aurelian
-
-<img src="../../npcs/house-aurelian/Lord%20Caedran%20Aurelian.webp" alt="Lord Caedran Aurelian" loading="lazy">
-
-*The Marble Hawk*
-
-Lord Caedran Aurelian is a royal cousin, court duelist, and polished political operator whose manners are as precise as his blade. He is known across Crownward as a perfect noble gentleman: composed, elegant, soft-spoken, and almost impossible to read.
-
-Caedran served as a royal battlefield envoy during the war with the Grelkin Empire, carrying orders through shattered siege lines and negotiating prisoner exchanges under white banners. He survived several assassination attempts and returned to court with a reputation for immaculate courtesy and lethal calm.
-
-At the Table of Chains, Caedran rarely speaks first. When he does, his words carry the weight of someone who has watched every expression in the room. Many courtiers call him old-fashioned, ceremonial, and harmlessly loyal. Those who know him better understand that the Marble Hawk earned his name because he watches from stillness before he strikes.
-
-**Known For:** dueling, court etiquette, royal loyalty, quiet influence, and a sword-cane capped with amethyst.
-
-### Olstar Vin-Har
-
-<img src="../../npcs/house-aurelian/Olstar%20Vin-Har.webp" alt="Olstar Vin-Har" loading="lazy">
-
-*Keeper of the Sealed Vaults*
-
-Olstar Vin-Har is one of House Aurelian’s most powerful archmages and a trusted guardian of the crown’s oldest sealed records. Though he is a mage by training, many describe him as having the soul of a paladin: disciplined, severe, devoted to justice, and unwilling to abandon a duty once he has accepted it.
-
-Olstar is most often seen in the deeper halls of the Aurelian compound, surrounded by old charters, magical seals, genealogies, contracts, and relics of royal law. He is a scholar of dangerous legal traditions, ancient oaths, and binding magic, and he is known to sponsor expeditions into the void in search of lost tomes and forgotten legal codes.
-
-To the public, Olstar is not a performer of spectacle magic. He is a warder, judge-scholar, and keeper of truths too old to be handled carelessly. His presence at court usually means that some matter of inheritance, oath, treaty, or crown authority has become serious enough to require a mage who understands law as deeply as spellcraft.
-
-**Known For:** royal wards, ancient contracts, legal magic, sealed archives, and absolute loyalty to the crown.
-
-### Lady Vaelessa Aurelian
-
-<img src="../../npcs/house-aurelian/Lady%20Vaelessa%20Aurelian.webp" alt="Lady Vaelessa Aurelian" loading="lazy">
-
-*The Amethyst Thorn*
-
-Lady Vaelessa Aurelian is the royal archivist of House Aurelian and one of the most feared historians in Crownward. She maintains public archives, marriage contracts, succession records, old decrees, inheritance claims, and the polished version of history House Aurelian permits the world to see.
-
-Vaelessa has an almost legendary memory for names, dates, bloodlines, debts, and scandals. She does not need to raise her voice to ruin a noble argument. A single correction from her can decide whether a title is valid, whether a claim is lawful, or whether a proud family’s oldest story is built on a clerical lie.
-
-In public, she is elegant, precise, and unfailingly composed. In private, many nobles fear her because she understands that history is not only memory. It is a weapon, a shield, and sometimes a sentence. Her rings, high collars, and amethyst jewelry have made her easy to recognize in royal halls, but few are eager to draw her attention.
-
-**Known For:** royal records, genealogies, succession law, forbidden family histories, and a gaze sharp enough to silence a room.
 
 ## Culture
 
