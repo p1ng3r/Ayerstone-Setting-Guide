@@ -1,6 +1,15 @@
-# House Emberhall
+<div class="house-page-hero house-page-emberhall" markdown>
+  <div class="house-page-hero__art"><img src="../assets/houses/emberhall.jpg" alt="House Emberhall banner" loading="lazy"></div>
+  <div class="house-page-hero__content">
+    <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
+    <h1>House Emberhall</h1>
+    <p class="house-page-hero__title">Lords of Flame and Industry</p>
+    <p class="house-page-hero__motto">“Heat makes truth.”</p>
+    <div class="house-page-hero__tags"><span>Industry</span><span>Foundries</span><span>Labor</span></div>
+  </div>
+</div>
 
-## Lords of Flame and Industry
+## Overview
 
 House Emberhall turns raw materials into civilization. It forges anchors, chains, tools, armor, machinery, Arkengine fittings, industrial components, and the infrastructure that keeps Ayerstone working.
 
