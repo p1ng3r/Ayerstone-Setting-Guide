@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+  <title id="title">The Great Houses</title>
+  <desc id="desc">A noble Ayerstone banner with palace silhouettes, violet and gold heraldry, and an elevated portal pouring a waterfall into Portal Lake.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#070b1b"/>
+      <stop offset="0.45" stop-color="#1d1639"/>
+      <stop offset="0.72" stop-color="#332050"/>
+      <stop offset="1" stop-color="#0c1020"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff1b8"/>
+      <stop offset="0.45" stop-color="#d7a94b"/>
+      <stop offset="1" stop-color="#8c5a1b"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#dff9ff"/>
+      <stop offset="0.45" stop-color="#64d8ff"/>
+      <stop offset="1" stop-color="#1673bd"/>
+    </linearGradient>
+    <radialGradient id="portalGlow" cx="50%" cy="46%" r="34%">
+      <stop offset="0" stop-color="#d8fbff" stop-opacity="0.95"/>
+      <stop offset="0.32" stop-color="#55d9ff" stop-opacity="0.55"/>
+      <stop offset="0.72" stop-color="#6a4bff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000" flood-opacity="0.85"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="360" fill="url(#sky)"/>
+  <rect width="1000" height="360" fill="url(#portalGlow)" opacity="0.9"/>
+
+  <g opacity="0.58">
+    <circle cx="70" cy="44" r="1.3" fill="#d6eeff"/><circle cx="118" cy="79" r="1" fill="#fff"/><circle cx="816" cy="42" r="1.2" fill="#fff"/><circle cx="908" cy="92" r="1" fill="#d6eeff"/><circle cx="749" cy="122" r="1" fill="#fff"/>
+  </g>
+
+  <path d="M0 220 C145 150 239 178 359 220 C478 260 600 168 724 216 C850 263 916 190 1000 224 L1000 360 L0 360 Z" fill="#0a1327" opacity="0.92"/>
+  <path d="M0 249 C123 211 238 215 342 250 C464 289 568 219 710 252 C846 283 900 235 1000 253 L1000 360 L0 360 Z" fill="#08101f" opacity="0.98"/>
+
+  <g opacity="0.9" fill="#d8c68a">
+    <rect x="660" y="185" width="130" height="62" rx="3" fill="#1b1a31" stroke="#9c7832" stroke-width="2"/>
+    <rect x="681" y="155" width="88" height="36" fill="#20183c" stroke="#b58a3b" stroke-width="2"/>
+    <path d="M678 155 Q725 118 772 155 Z" fill="#25204c" stroke="#b58a3b" stroke-width="2"/>
+    <rect x="690" y="196" width="8" height="45"/><rect x="714" y="196" width="8" height="45"/><rect x="738" y="196" width="8" height="45"/><rect x="762" y="196" width="8" height="45"/>
+    <rect x="818" y="181" width="42" height="68" fill="#181831" stroke="#9c7832" stroke-width="1.6"/><path d="M812 181 L839 150 L866 181 Z" fill="#221a43" stroke="#9c7832" stroke-width="1.6"/>
+    <rect x="110" y="186" width="88" height="61" fill="#17152b" stroke="#9c7832" stroke-width="1.7"/><path d="M104 186 L154 151 L204 186 Z" fill="#211b3f" stroke="#9c7832" stroke-width="1.7"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <ellipse cx="500" cy="156" rx="78" ry="20" fill="none" stroke="#8eeaff" stroke-width="7" opacity="0.95"/>
+    <ellipse cx="500" cy="156" rx="62" ry="13" fill="none" stroke="#d9fbff" stroke-width="2" opacity="0.9"/>
+    <path d="M438 160 C452 168 468 172 500 172 C532 172 548 168 562 160 C552 190 535 213 500 218 C465 213 448 190 438 160 Z" fill="#152a59" opacity="0.52"/>
+    <path d="M470 166 C474 218 472 246 458 291" stroke="url(#water)" stroke-width="17" stroke-linecap="round" opacity="0.76"/>
+    <path d="M500 166 C499 218 498 250 493 305" stroke="url(#water)" stroke-width="28" stroke-linecap="round" opacity="0.82"/>
+    <path d="M530 166 C526 218 529 246 544 291" stroke="url(#water)" stroke-width="17" stroke-linecap="round" opacity="0.76"/>
+    <path d="M454 296 C482 279 520 278 552 297 C526 313 482 314 454 296 Z" fill="#7ee7ff" opacity="0.42"/>
+    <path d="M491 104 L509 104 L518 142 L500 156 L482 142 Z" fill="#dffbff" opacity="0.9"/>
+    <path d="M407 141 C433 111 462 112 485 137" fill="none" stroke="#3bd3ff" stroke-width="3" opacity="0.55"/>
+    <path d="M515 137 C541 112 570 111 593 141" fill="none" stroke="#3bd3ff" stroke-width="3" opacity="0.55"/>
+  </g>
+
+  <g fill="#d8d2c4" stroke="#9c7832" stroke-width="2" opacity="0.96">
+    <rect x="0" y="72" width="58" height="205" fill="#17142b" stroke="none"/>
+    <rect x="18" y="76" width="20" height="180" fill="#d9d4c9"/><rect x="56" y="64" width="22" height="205" fill="#d9d4c9"/><rect x="0" y="256" width="120" height="18" fill="#e5ded0"/>
+    <rect x="0" y="64" width="92" height="16" fill="#e6d099"/>
+    <rect x="0" y="86" width="52" height="122" fill="#3a174c" stroke="#c0943a"/><path d="M6 100 L45 100 L45 184 L25 202 L6 184 Z" fill="#4a1b62" stroke="#d7a94b"/>
+    <rect x="915" y="94" width="24" height="164" fill="#d9d4c9"/><rect x="958" y="80" width="25" height="184" fill="#d9d4c9"/><rect x="895" y="258" width="105" height="19" fill="#e5ded0"/><rect x="902" y="82" width="98" height="16" fill="#e6d099"/>
+  </g>
+
+  <g opacity="0.96">
+    <rect x="0" y="275" width="1000" height="85" fill="#0d0b18" opacity="0.75"/>
+    <rect x="0" y="272" width="1000" height="2" fill="#d7a94b" opacity="0.48"/>
+    <path d="M0 302 H1000" stroke="#7d5a26" stroke-width="1" opacity="0.45"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <text x="500" y="82" text-anchor="middle" font-family="Cinzel, Georgia, serif" font-size="66" font-weight="700" letter-spacing="1.5" fill="#2a1606" stroke="#000" stroke-width="4" opacity="0.78">The Great Houses</text>
+    <text x="500" y="82" text-anchor="middle" font-family="Cinzel, Georgia, serif" font-size="66" font-weight="700" letter-spacing="1.5" fill="url(#gold)" stroke="#fff0b8" stroke-width="1.1">The Great Houses</text>
+    <path d="M234 109 H455 M545 109 H766" stroke="url(#gold)" stroke-width="3" opacity="0.9"/>
+    <path d="M500 96 L513 109 L500 122 L487 109 Z" fill="#17142b" stroke="url(#gold)" stroke-width="3"/>
+    <circle cx="500" cy="109" r="4" fill="#fff1b8"/>
+  </g>
+
+  <rect x="4" y="4" width="992" height="352" rx="22" ry="22" fill="none" stroke="#d7a94b" stroke-width="4" opacity="0.95"/>
+  <rect x="14" y="14" width="972" height="332" rx="16" ry="16" fill="none" stroke="#3b83d6" stroke-width="1.4" opacity="0.35"/>
+</svg>
