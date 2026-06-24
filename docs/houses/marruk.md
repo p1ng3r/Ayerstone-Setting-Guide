@@ -9,6 +9,16 @@
   </div>
 </div>
 
+<div class="house-glance" markdown>
+  <div class="house-glance__title">At a Glance</div>
+  <div class="house-glance__grid">
+    <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Security contracts, escort duty, watch service, and professional vigilance.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Seat</span><span class="house-glance__value">Crownward, Merchant's Reach, the Grand Docks, caravan routes, and contract halls.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Red stone, dark timber, iron, leather, brass, and service-mark bronze.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Training yards, armories, overnight watch rites, preparedness, and loyal gates.</span></div>
+  </div>
+</div>
+
 ## Overview
 
 House Marruk is the house of security, contracts, escort duty, and professional vigilance.
