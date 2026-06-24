@@ -19,6 +19,18 @@
   </div>
 </section>
 
+<section class="house-feature house-feature--starweaver">
+  <div class="house-feature__portrait"><img src="../../assets/characters/lady-starweaver.jpg" alt="Lady Celestia Starweaver portrait" loading="lazy" onerror="this.closest('.house-feature').remove()"></div>
+  <div class="house-feature__body">
+    <p class="house-feature__eyebrow">Featured Figure</p>
+    <h2>Lady Celestia Starweaver</h2>
+    <p class="house-feature__subtitle">Matriarch of House Starweaver • Keeper of Horizons • Warden of Ayerstone Routes</p>
+    <p class="house-feature__quote">“Every horizon opens — but only to those prepared to claim it.”</p>
+    <p class="house-feature__text">Lady Celestia is the polished public face of Starweaver power: calm, wealthy, difficult to read, and impossible for merchants or captains to ignore.</p>
+    <div class="house-feature__tags"><span>Trade</span><span>Routes</span><span>Power Broker</span></div>
+  </div>
+</section>
+
 ## Overview
 
 House Starweaver is the great house of routes, horizons, exploration, shipping, and Arkflight commerce. Its wealth rests on ships, maps, berths, cargo contracts, long-distance trade, route intelligence, and the immense influence of the **Celestial Trade and Shipping Consortium**.
