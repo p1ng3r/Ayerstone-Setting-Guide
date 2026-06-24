@@ -9,6 +9,16 @@
   </div>
 </div>
 
+<div class="house-glance" markdown>
+  <div class="house-glance__title">At a Glance</div>
+  <div class="house-glance__grid">
+    <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Convoy protection, escort contracts, naval discipline, and anti-piracy work.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Seat</span><span class="house-glance__value">The Grand Docks, escort halls, convoy offices, and harbor-facing Noble Row holdings.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Black stone, weathered timber, brass, dark leather, and sea-dark green.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Signal beacons, ship discipline, empty chairs for lost sailors, and hard-earned protection.</span></div>
+  </div>
+</div>
+
 ## Overview
 
 House Blackwake is the house of privateers, convoy escorts, anti-piracy contracts, naval discipline, and hard-earned protection.
