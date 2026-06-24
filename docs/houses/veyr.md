@@ -9,6 +9,16 @@
   </div>
 </div>
 
+<div class="house-glance" markdown>
+  <div class="house-glance__title">At a Glance</div>
+  <div class="house-glance__grid">
+    <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Banking, contracts, insurance, debt, inheritance, and investment.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Seat</span><span class="house-glance__value">Merchant's Reach, counting houses, financial courts, and Noble Row estates.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Ivory, dark green glass, black marble, polished brass, and emerald accents.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Quiet leverage, mirrored halls, silent vaults, and contracts read for consequence.</span></div>
+  </div>
+</div>
+
 ## Overview
 
 House Veyr is the house of banking, contracts, insurance, debt, inheritance, investment, and quiet financial power.
