@@ -90,6 +90,92 @@ But beneath its marble halls, the stone remembers a bargain.
 
 And the stone may not endure forever.
 
+### Notable House Aurelian NPCs
+
+#### Lord Caedran Aurelian
+
+*The Marble Hawk*
+
+**Ancestry:** Human  
+**Role:** Royal cousin, court duelist, quiet political operator  
+**Age:** 36  
+**Public Reputation:** Perfect noble gentleman, war veteran, defender of royal dignity  
+**Private Truth:** He is building a secret loyalist network to free the crown from House Marruk’s grip.
+
+Lord Caedran Aurelian is everything the public expects an Aurelian nobleman to be: composed, elegant, polite, beautifully dressed, and almost impossible to read. He speaks softly, never raises his voice, and treats even his enemies with immaculate courtesy. This makes people underestimate him.
+
+They should not.
+
+Caedran is one of the finest duelists in Crownward, trained with rapier, cane-sword, dagger, and pistol. During the war with the Grelkin Empire, he served as a royal battlefield envoy, carrying orders through broken siege lines and negotiating prisoner exchanges under white banners. He survived three assassination attempts and killed the last assassin with a dinner knife while still wearing formal court gloves.
+
+At court, Caedran is known as **the Marble Hawk** because he watches everything from stillness. He rarely speaks during meetings of the Table of Chains, but when he does, his words are sharp enough to change votes. Many nobles consider him old-fashioned, loyal, and harmlessly ceremonial.
+
+That is exactly what he wants them to think.
+
+Caedran believes House Marruk has become too powerful inside the palace. He knows the king mostly trusts them, but Caedran sees every Marruk guard in the royal compound as a chain around House Aurelian’s throat. To counter them, he has begun quietly building the **White Oath**, a hidden network of loyal servants, retired guards, minor nobles, old war veterans, and royal sympathizers who answer to the crown before any Great House.
+
+He is not plotting against King Azoun VII. He is plotting for him.
+
+Caedran knows the public shame around the king’s tiefling bloodline has weakened the throne. Unlike many Aurelian nobles, he does not resent the king’s infernal features. He sees Azoun VII as a wounded but rightful monarch who must be protected until the crown can stand fully on its own again.
+
+Caedran does not know the full truth of the infernal contract, but he suspects there is a hidden reason behind the king’s birth. He has noticed Olstar Vin-Har’s secret expeditions, missing royal funds, and coded requests for obscure legal tomes. Caedran has not confronted him yet.
+
+He is waiting until he has enough leverage to force the truth.
+
+**Appearance:** Caedran is tall, lean, and severe, with pale skin, dark silver-streaked hair, and sharp gray eyes. He wears white-and-purple Aurelian court clothing with gold trim, but always carries a slim sword-cane capped with an amethyst stone.
+
+**Personality:** Calm, observant, controlled, loyal, and ruthless when necessary. He never threatens people directly. He simply makes them understand what will happen if they continue.
+
+**Table Use:** Caedran works well as a royal patron for discreet missions, a dueling rival, a court ally who tests the party before trusting them, a secret backer against House Marruk, or a noble who may discover too much about the infernal contract.
+
+**Quote:** “Power is not always held by the hand gripping the sword. Sometimes it belongs to the one who knows when the sword must remain sheathed.”
+
+#### Lady Vaelessa Aurelian
+
+*The Amethyst Thorn*
+
+**Ancestry:** Half-Elf  
+**Role:** Royal archivist, curse-scholar, keeper of forbidden genealogies  
+**Age:** 42  
+**Public Reputation:** Elegant historian and guardian of royal records  
+**Private Truth:** She has found evidence that Azoun VII may not be the last Aurelian touched by the old bargain.
+
+Lady Vaelessa Aurelian is the master of House Aurelian’s public archives, bloodline records, marriage contracts, old royal decrees, succession histories, and forbidden family documents. To outsiders, she appears to be a refined noble scholar with a dry wit and a taste for old books.
+
+Inside House Aurelian, she is feared.
+
+Vaelessa has an almost supernatural memory for names, dates, births, deaths, inheritances, debts, and scandals. She can destroy a noble with a sentence by proving their grandfather’s marriage was never legally witnessed, their claim to land was improperly transferred, or their bloodline title rests on a forged charter.
+
+She never needs to lie.
+
+The truth is usually cruel enough.
+
+Vaelessa was among the first members of House Aurelian to understand that King Azoun VII’s tiefling birth was not random. She began secretly studying old royal genealogies and discovered gaps: missing children, erased stillbirth records, sealed medical notes, strange references to “stone-fever,” “horn-sign,” and “water dreams” scattered across centuries of Aurelian history.
+
+She does not know the full contents of the infernal contract, but she has reached a terrifying conclusion.
+
+Azoun VII may not be the first manifestation of the bargain.
+
+He may simply be the first one House Aurelian failed to hide.
+
+Vaelessa is outwardly loyal to the king, but her loyalty is colder than Caedran’s. She believes House Aurelian must survive even if individual Aurelians must be sacrificed. If the king can be saved, she will help save him. If he becomes the legal doorway through which demons can claim Ayerstone, she will look for a way to remove him without destroying the crown.
+
+This makes her useful, brilliant, and dangerous.
+
+Vaelessa has begun collecting evidence from old midwives’ journals, sealed chapel records, water-damaged birth ledgers, and forbidden family portraits. Some of these records suggest that certain Aurelian children were born with strange eyes, vestigial horns, infernal shadows, or dreams of drowning beneath an endless black sea.
+
+She keeps her most damning findings in a hidden archive called **the Thorn Ledger**.
+
+If Olstar Vin-Har is trying to break the contract through infernal law, Vaelessa is trying to understand it through blood.
+
+**Appearance:** Vaelessa is graceful and sharp-featured, with long black hair threaded with silver, pale violet eyes, and a calm expression that rarely changes. She wears layered white, purple, and gold gowns with high collars, amethyst jewelry, and finger-rings shaped like tiny thorns.
+
+**Personality:** Elegant, precise, terrifyingly intelligent, patient, and emotionally restrained. She is not cruel for pleasure, but she believes sentiment is dangerous when a kingdom is at stake.
+
+**Table Use:** Vaelessa works well as a source of hidden royal history, a dangerous quest-giver, a political interrogator, a rival to Olstar Vin-Har, a noble who may help or betray the king depending on what the party discovers, or the keeper of clues about older Aurelian manifestations.
+
+**Quote:** “Blood remembers what history edits out.”
+
 ---
 
 ## House Notes Locked So Far
@@ -106,3 +192,4 @@ And the stone may not endure forever.
 - **Most criminal house:** Blackwake
 - **Closest to open war:** Blackwake and Stormglass
 - **Main book secrets:** Azoun bloodline infernal contract and Lady Celestia secretly being a dragon
+- **House Aurelian NPCs added:** Lord Caedran Aurelian and Lady Vaelessa Aurelian
