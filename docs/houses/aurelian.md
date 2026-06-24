@@ -39,7 +39,7 @@ House Aurelian rules from Crownward Palace in Crownward, north-center above Nobl
 
 ### Lord Caedran Aurelian
 
-<img src="../../assets/npcs/house-aurelian/lord-caedran-aurelian.webp" alt="Lord Caedran Aurelian" loading="lazy">
+<img src="../../npcs/house-aurelian/Lord%20Caedran%20Aurelian.webp" alt="Lord Caedran Aurelian" loading="lazy">
 
 *The Marble Hawk*
 
@@ -53,7 +53,7 @@ At the Table of Chains, Caedran rarely speaks first. When he does, his words car
 
 ### Olstar Vin-Har
 
-<img src="../../assets/npcs/house-aurelian/olstar-vin-har.webp" alt="Olstar Vin-Har" loading="lazy">
+<img src="../../npcs/house-aurelian/Olstar%20Vin-Har..webp" alt="Olstar Vin-Har" loading="lazy">
 
 *Keeper of the Sealed Vaults*
 
@@ -67,7 +67,7 @@ To the public, Olstar is not a performer of spectacle magic. He is a warder, jud
 
 ### Lady Vaelessa Aurelian
 
-<img src="../../assets/npcs/house-aurelian/lady-vaelessa-aurelian.webp" alt="Lady Vaelessa Aurelian" loading="lazy">
+<img src="../../npcs/house-aurelian/Lady%20Vaelessa%20Aurelian.webp" alt="Lady Vaelessa Aurelian" loading="lazy">
 
 *The Amethyst Thorn*
 
