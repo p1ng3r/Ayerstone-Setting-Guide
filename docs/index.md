@@ -5,10 +5,12 @@
 
 A floating city between worlds. A harbor of Arkflight ships. A kingdom built on stone, water, chains, magic, and dangerous ambition.
 
-[Explore the City](districts/index.md){ .md-button .md-button--primary }
-[Great Houses](houses/index.md){ .md-button }
-[Chainbound Isles](player-guide/chainbound-isles.md){ .md-button }
-[Arkflight Technology](arkflight-tech/index.md){ .md-button }
+<div class="ayerstone-hero-actions">
+  <a class="ayerstone-hero-button" href="districts/index.md"><span>Explore the City</span></a>
+  <a class="ayerstone-hero-button" href="houses/index.md"><span>Great Houses</span></a>
+  <a class="ayerstone-hero-button" href="player-guide/chainbound-isles.md"><span>Chainbound Isles</span></a>
+  <a class="ayerstone-hero-button" href="arkflight-tech/index.md"><span>Arkflight Technology</span></a>
+</div>
 
 </div>
 
@@ -49,7 +51,7 @@ Ayerstone is a massive floating world-shard city suspended in the dark void. Ark
 
 <script>
 (function () {
-  var version = '20260623c';
+  var version = '20260623d';
   function loadArt(name) {
     return fetch('assets/art/inline/' + name + '.b64.txt?v=' + version, { cache: 'no-store' })
       .then(function (response) {
