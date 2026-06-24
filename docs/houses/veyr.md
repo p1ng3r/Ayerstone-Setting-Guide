@@ -1,6 +1,15 @@
-# House Veyr
+<div class="house-page-hero house-page-veyr" markdown>
+  <div class="house-page-hero__art"><img src="../assets/houses/veyr.jpg" alt="House Veyr banner" loading="lazy"></div>
+  <div class="house-page-hero__content">
+    <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
+    <h1>House Veyr</h1>
+    <p class="house-page-hero__title">Masters of Coin and Contract</p>
+    <p class="house-page-hero__motto">“All debts return.”</p>
+    <div class="house-page-hero__tags"><span>Banking</span><span>Debt</span><span>Contracts</span></div>
+  </div>
+</div>
 
-## Masters of Coin and Contract
+## Overview
 
 House Veyr is the house of banking, contracts, insurance, debt, inheritance, investment, and quiet financial power.
 
