@@ -9,6 +9,16 @@
   </div>
 </div>
 
+<div class="house-glance" markdown>
+  <div class="house-glance__title">At a Glance</div>
+  <div class="house-glance__grid">
+    <div class="house-glance__item"><span class="house-glance__label">Sphere</span><span class="house-glance__value">Shipbuilding, repairs, engineering, prototypes, and Arkflight design.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Seat</span><span class="house-glance__value">Grand Docks shipyards, drydocks, Noble Row, and experimental city-edge platforms.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Colors</span><span class="house-glance__value">Storm-gray, copper, blue glass, sailcloth white, and polished metal.</span></div>
+    <div class="house-glance__item"><span class="house-glance__label">Known For</span><span class="house-glance__value">Model halls, drafting rooms, first hammers, failed inventions, and dangerous dreamers.</span></div>
+  </div>
+</div>
+
 ## Overview
 
 House Stormglass designs, builds, tests, and repairs Arkflight ships. It is the house of shipwrights, engineers, sail architects, hull mathematicians, prototype pilots, and dangerous dreamers.
