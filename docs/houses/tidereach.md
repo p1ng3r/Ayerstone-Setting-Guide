@@ -1,6 +1,15 @@
-# House Tidereach
+<div class="house-page-hero house-page-tidereach" markdown>
+  <div class="house-page-hero__art"><img src="../assets/houses/tidereach.jpg" alt="House Tidereach banner" loading="lazy"></div>
+  <div class="house-page-hero__content">
+    <p class="house-page-hero__eyebrow">Great House of Ayerstone</p>
+    <h1>House Tidereach</h1>
+    <p class="house-page-hero__title">Keepers of the Living Waters</p>
+    <p class="house-page-hero__motto">“All thirst bows.”</p>
+    <div class="house-page-hero__tags"><span>Water</span><span>Canals</span><span>Falls</span></div>
+  </div>
+</div>
 
-## Keepers of the Living Waters
+## Overview
 
 House Tidereach manages water rights, canals, reservoirs, floodgates, public cisterns, water clocks, riverworks, and the infrastructure fed by Portal Lake and the Waterplane Portal.
 
