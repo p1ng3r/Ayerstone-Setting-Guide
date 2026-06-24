@@ -42,3 +42,14 @@ Every child serves an overnight watch before adulthood. Preparedness is treated 
 ## Common Saying
 
 > Prepared beats brave.
+
+## Court Whispers
+
+!!! info "Public Rumor"
+    Marruk officers can judge a contract's reliability by the boots of the people signing it.
+
+!!! warning "Risky Rumor"
+    Some nobles believe Marruk reports reach the palace faster than official messengers do.
+
+!!! question "Whispered Claim"
+    The house may keep private loyalty ledgers on every major estate in Crownward.
