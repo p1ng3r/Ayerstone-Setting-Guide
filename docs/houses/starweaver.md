@@ -42,3 +42,14 @@ Children create their first map before adulthood. Captains keep blue lanterns li
 ## Common Saying
 
 > The route exists. You simply have not found it.
+
+## Court Whispers
+
+!!! info "Public Rumor"
+    A Starweaver captain can recognize a profitable route from the shape of a tavern map.
+
+!!! warning "Risky Rumor"
+    Some merchant rivals claim Starweaver charts include ports that do not officially exist.
+
+!!! question "Whispered Claim"
+    The house may keep a private list of jump routes that never reach public registries.
