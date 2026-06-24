@@ -9,6 +9,7 @@ extra_css:
   - stylesheets/house-banners.css
   - stylesheets/house-glance.css
   - stylesheets/house-power.css
+  - stylesheets/house-feature.css
 
 theme:
   name: material
