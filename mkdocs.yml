@@ -110,7 +110,9 @@ nav:
       - Overview: arkflight-tech/index.md
       - Arkengines: arkflight-tech/arkengines.md
       - Aetherite: arkflight-tech/aetherite.md
+      - Lifeveil: arkflight-tech/lifeveil.md
       - Ark Compass: arkflight-tech/ark-compass.md
+      - Void Phenomena: arkflight-tech/void-phenomena.md
   - Reference:
       - Glossary: reference/glossary.md
       - NPC Index: reference/npc-index.md
