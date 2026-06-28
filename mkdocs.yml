@@ -82,6 +82,8 @@ nav:
       - Shadow Stars: cosmology/shadow-stars.md
   - Factions:
       - Overview: factions/index.md
+      - Freespacers: factions/freespacers.md
+      - Council of the Void: factions/council-of-the-void.md
       - Brotherhood of the Cosmic Flame: factions/brotherhood-cosmic-flame.md
       - Grelkin Cartel: factions/grelkin-cartel.md
   - Districts:
