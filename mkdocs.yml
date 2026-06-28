@@ -74,6 +74,12 @@ nav:
       - Vael'Tharis: chainbound-isles/vaeltharis.md
       - Skullwatch Depot: chainbound-isles/skullwatch-depot.md
       - Glacivane: chainbound-isles/glacivane.md
+  - Cosmology:
+      - Overview: cosmology/index.md
+      - First Worlds: cosmology/first-worlds.md
+      - Pillar Titans: cosmology/pillar-titans.md
+      - Veiled Sovereigns: cosmology/veiled-sovereigns.md
+      - Shadow Stars: cosmology/shadow-stars.md
   - Factions:
       - Overview: factions/index.md
       - Brotherhood of the Cosmic Flame: factions/brotherhood-cosmic-flame.md
