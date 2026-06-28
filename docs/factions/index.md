@@ -40,6 +40,10 @@ Known space is not ruled by one great authority. It is fractured between competi
 
 Independent captains, frontier worlds, private traders, smugglers, scouts, explorers, couriers, and free ports. Ayerstone is part of the Freespacer tradition and is often considered one of its spiritual capitals.
 
+The Freespacers have no capital and no formal citizenship. To declare yourself Freespacer and live by its principles is usually enough.
+
+Their organized volunteer navy is called the **Freebooters**, based at Dock 44 in the Grand Docks.
+
 ### Brotherhood of the Cosmic Flame
 
 A dragon-led imperial power built by sovereign dragons and dragonfolk. It expands through conquest, fleet power, arcane might, and slavery. Its lower imperial classes often include lizardfolk, kobolds, yuan-ti, and other scaled peoples.
@@ -62,7 +66,7 @@ A religious and philosophical movement teaching that some souls return through c
 
 ### Council of the Void
 
-A mysterious occult faction associated with silence, forbidden truths, cosmic secrets, and hidden manipulation.
+One of the great powers of known space, and possibly the least understood. The Council is alien, dark, mysterious, and feared. Those who enter Council territory rarely return, and those who do often come back changed.
 
 ### Starweaver Sky Lines
 
@@ -74,7 +78,7 @@ Ayerstone allows nearly every faction to dock, bargain, repair, worship, trade, 
 
 This does not mean all factions are trusted.
 
-Brotherhood ships are watched for slavery and abduction. Grelkin crews are watched for theft and violence. Underwake agents are watched because they are Underwake agents. Veilwardens are watched because they watch everyone else.
+Brotherhood ships are watched for slavery and abduction. Grelkin crews are watched for theft and violence. Underwake agents are watched because they are Underwake agents. Veilwardens are watched because they watch everyone else. Council visitors are watched because no one knows what else to do.
 
 Neutrality is not innocence.
 
