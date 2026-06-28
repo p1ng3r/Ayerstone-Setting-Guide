@@ -1,13 +1,16 @@
 <div class="hero hero--ayerstone" markdown>
 
 # Ayerstone
-## Crown of the Falls
+## The Free Port of the Void
 
-A floating city between worlds. A harbor of Arkflight ships. A kingdom built on stone, water, chains, magic, and ambition.
+A floating city between worlds. A harbor of Arkflight ships. Independent. Unconquered. Open to every horizon.
+
+**Dock if you can pay. Pray if you can't. Rule us? Never.**
 
 <div class="ayerstone-hero-actions">
   <a class="ayerstone-hero-button" href="districts/"><span>Explore the City</span></a>
   <a class="ayerstone-hero-button" href="houses/"><span>Great Houses</span></a>
+  <a class="ayerstone-hero-button" href="factions/"><span>Factions</span></a>
   <a class="ayerstone-hero-button" href="player-guide/chainbound-isles/"><span>Chainbound Isles</span></a>
   <a class="ayerstone-hero-button" href="arkflight-tech/"><span>Arkflight Technology</span></a>
 </div>
@@ -22,7 +25,11 @@ A floating city between worlds. A harbor of Arkflight ships. A kingdom built on 
 
 Ayerstone is a massive floating world-shard city suspended in the dark void. Arkflight ships crowd the Grand Docks, water pours endlessly from the Waterplane Portal into Portal Lake, and the Great Houses compete for influence across terraces, markets, temples, foundries, and chained satellite islands.
 
+Ayerstone stands apart from the great powers of known space. Here, merchants bargain beside explorers, refugees find sanctuary, pirates drink near diplomats under the watchful eyes of the Irystone Watch, and every vessel may seek safe harbor beneath the city's laws.
+
 > Everything passes through Ayerstone Port.
+
+> All may dock. None may rule.
 
 ## Start Here
 
@@ -36,6 +43,11 @@ Ayerstone is a massive floating world-shard city suspended in the dark void. Ark
     <img data-ayerstone-art="great" alt="Great Houses">
     <strong>Great Houses</strong>
     <span>Learn the noble houses that shape the city's politics, trade, food, ships, law, water, and industry.</span>
+  </a>
+  <a class="ayerstone-art-card" href="factions/" aria-label="Open Factions">
+    <img data-ayerstone-art="ark" alt="Factions">
+    <strong>Factions</strong>
+    <span>Meet the powers that sail into Ayerstone: Freespacers, dragon empires, raider cartels, syndicates, holy orders, and hidden councils.</span>
   </a>
   <a class="ayerstone-art-card" href="player-guide/chainbound-isles/" aria-label="Open Chainbound Isles">
     <img data-ayerstone-art="chain" alt="Chainbound Isles">
