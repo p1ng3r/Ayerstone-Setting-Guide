@@ -118,6 +118,7 @@ nav:
   - Religions:
       - Overview: religions/index.md
       - Aeloria: religions/aeloria.md
+      - Aevorath the Triune: religions/aevorath-triune.md
   - Arkflight Tech:
       - Overview: arkflight-tech/index.md
       - Arkengines: arkflight-tech/arkengines.md
